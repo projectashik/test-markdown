@@ -5,6 +5,8 @@ author: Ashik Chapagain
 
 <p>Hello, world</p>
 
+<CodeRenderer />
+
 ## Table
 | First Header  | Second Header |
 | ------------- | ------------- |
