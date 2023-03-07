@@ -7,3 +7,10 @@ author: Ashik Chapagain
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+
+<details><summary>Tick... Tock... Tick... Tock...⏱</summary>
+
+**KABOOM!!**
+
+</details>
