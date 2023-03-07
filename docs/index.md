@@ -3,6 +3,9 @@ title: Guide Awesome
 author: Ashik Chapagain
 ---
 
+- [X] Done
+- [] Not Done
+
 <p>Hello, world</p>
 
 <CodeRenderer />
