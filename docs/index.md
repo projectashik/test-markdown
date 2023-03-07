@@ -1,5 +1,6 @@
 ---
 title: Guide Awesome
+author: Ashik Chapagain
 ---
 
 | First Header  | Second Header |
