@@ -4,7 +4,7 @@ author: Ashik Chapagain
 ---
 
 - [X] Done
-- [] Not Done
+- [ ] Not Done
 
 <p>Hello, world</p>
 
