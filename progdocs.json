@@ -1,0 +1,23 @@
+{
+  "title": "Shtr - More than a URL Shortner",
+  "description": "The only platform than can beat Bit.ly",
+  "features": [
+    {
+      "title": "Free and open source.",
+      "description": "Shtr. is free and open source available in MIT license on Github."
+    }
+  ],
+  "sidebar": [
+    {
+      "title": "Installtion",
+      "children": ["installation/1.md", "installation/2.md"]
+    },
+    {
+      "file": "index.md"
+    }
+  ],
+  "settings": {
+    "contributors": true,
+    "editOnGitHub": true
+  }
+}
