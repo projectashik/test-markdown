@@ -18,6 +18,16 @@
       "file": "index.md"
     }
   ],
+  "authors": [
+    "projectashik",
+    {
+      "name": "Ashim Chapagain",
+      "githubUsername": "ashimchapagain",
+      "bio": "A professional full stack web developer with all the knowledge of technology",
+      "twitter": "ChapagainAshik",
+      "avatar": "https://github.com/projectashik.png"
+    }
+  ],
   "settings": {
     "contributors": true,
     "editOnGitHub": true
