@@ -1,6 +1,7 @@
 ## Features
 
 1. Internationalization
+
 Shtr provides you the dashboard with many languages (Currently 2 languaguage - More coming soon). Current supported language are English (Default) and Nepali.
 
 2. Branding
